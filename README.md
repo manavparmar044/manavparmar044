@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Attendance Monitoring System**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Generative AI**
 
 - 📫 How to reach me **mmparmar044@gmail.com**
 
